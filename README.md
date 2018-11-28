@@ -1,5 +1,9 @@
 # Domain-Adversarial Training of Neural Networks in Tensorflow
 
+## This repo is deprecated!!! Please go to this site:
+
+https://github.com/jindongwang/transferlearning/tree/master/code/deep/DANN(RevGrad)
+
 **Now supports Tensorflow 1.4.0+Python 3.6**
 
 "[Unsupervised Domain Adaptation by Backpropagation](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)" introduced a simple and effective method for accomplishing domain adaptation with SGD with a gradient reversal layer. This work was elaborated and extended in "[Domain-Adversarial Training of Neural Networks](http://jmlr.org/papers/volume17/15-239/15-239.pdf)". For more information as well as a link to an equivalent implementation in Caffe, see http://sites.skoltech.ru/compvision/projects/grl/.
